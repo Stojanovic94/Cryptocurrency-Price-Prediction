@@ -9,6 +9,11 @@ This Google Colab notebook implements and compares four popular time series fore
 
 📅 **Forecast Range**: The models predict cryptocurrency prices for the next **90 days** using historical data from **June 1, 2023 to June 1, 2025** retrieved from **Yahoo Finance**.
 
+![](image-0.png)
+![](image-1.png)
+![](image-2.png)
+![](image-3.png)
+
 ## 🧩 Features
 
 - Interactive dropdowns for selecting cryptocurrency and fiat currency.
