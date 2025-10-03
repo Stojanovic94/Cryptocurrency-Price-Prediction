@@ -1,4 +1,4 @@
-# 🔮 Cryptocurrency Price Prediction Using Time Series Models
+# Cryptocurrency Price Prediction Using Time Series Models
 
 This Google Colab notebook implements and compares four popular time series forecasting models for predicting cryptocurrency prices:
 
@@ -38,3 +38,4 @@ The notebook installs all required libraries using `pip`:
 
 ```python
 !pip install -q yfinance autots matplotlib ipywidgets statsmodels prophet tensorflow
+
